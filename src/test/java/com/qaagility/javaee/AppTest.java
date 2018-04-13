@@ -26,4 +26,4 @@ Calculator myCalc = new Calculator();
         assertEquals("Result", 9, myCalc.add(3,6));
       }
 
-}
+    }
